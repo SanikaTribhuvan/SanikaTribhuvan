@@ -21,9 +21,7 @@
 - 💬 **Ask Me About:** My journey from biology to code, piano improvisations, or street‑style Chinese foodie adventures 🍜
 - 🐶 **Fun Fact:** I hug dogs before humans and talk to the moon like it’s my best friend 🌝
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/dog-moon.png" width="120"/>
-</p>
+
 
 <p align="center">
   <em>"I translate piano phrases into code that breathes."</em><br>
@@ -84,7 +82,7 @@
 ---
 
 <p align="center">
-  Crafted with <img src="https://user-images.githubusercontent.com/placeholder/coffee.png" width="20"/> curiosity, <img src="https://user-images.githubusercontent.com/placeholder/coffee-cup.png" width="20"/> coffee, and code ☕
+  Crafted with curiosity, coffee, and code ☕
 </p>
 
 ---
