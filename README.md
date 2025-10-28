@@ -8,9 +8,8 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6EDAec5c.gif" alt="Pastel divider">
-</p>
+---
+<!-- Removed Pastel divider -->
 
 ### 🌸 About Me  
 
@@ -92,9 +91,7 @@ I'm documenting my journey from biology to tech. Here's my first post:
   <a href="mailto:tribhuvansanika@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6EDAec5c.gif" width="100%">
-</p>
+<!-- Removed Pastel divider at end -->
 
 <p align="center">
   crafted with curiosity, coffee, and code ☕
