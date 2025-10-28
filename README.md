@@ -9,6 +9,7 @@
   </a>
 </div>
 
+
 <div align="left">
 <h2>🌸 About Me</h2>
   
@@ -103,7 +104,7 @@
         </a>
         <br><br>
         <p align="left">An interactive digital canvas that responds to gesture inputs, built using MediaPipe.</p>
-G      </div>
+      </div>
     </td>
   </tr>
 </table>
@@ -127,7 +128,7 @@ G      </div>
       <br>
       <em>Dynamic Power BI Dashboards</em>
       <p align="left">Creating interactive and insightful data visualizations to drive strategic business decisions. From raw data to actionable insights!</p>
-s    </td>
+    </td>
   </tr>
 </table>
 
@@ -146,7 +147,7 @@ s    </td>
   </a>
   <a href="https://hashnode.com/@SanikaTribhuvan" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-.  </a>
+  </a>
   <a href="https://dev.to/sanikatribhuvan" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
