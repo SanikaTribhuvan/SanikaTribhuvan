@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b7604a3-c9d0-4672-ba16-2d60f8744e87" alt="AI Systems Banner" width="100%">
+  <img src="![Image](https://github.com/user-attachments/assets/733b276f-90a7-4268-9cb8-0a5809fcd863)" alt="AI Systems Banner" width="100%">
 </p>
 
 <div align="center">
