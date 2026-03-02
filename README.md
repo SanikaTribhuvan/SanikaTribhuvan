@@ -1,89 +1,107 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b7604a3-c9d0-4672-ba16-2d60f8744e87" alt="Aesthetic Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/7b7604a3-c9d0-4672-ba16-2d60f8744e87" alt="AI Systems Banner" width="100%">
 </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=E6A4B4&size=26&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sanika+🌷;Building+research-driven+AI+systems;From+model+training+to+real-world+deployment." alt="Hi, I'm Sanika">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Sanika+Tribhuvan;AI+Systems+Developer;Research+Driven+%7C+Product+Focused;Data+Science+%7C+ML+%7C+Computer+Vision" alt="Typing Header">
   </a>
 </div>
 
 ---
 
-### 🌸 About Me  
+## 👩‍💻 About
 
-- 🎓 Final-year BCA Student (CGPA: 9.3/10)  
-- 🧠 Focus: Data Science, Machine Learning & AI System Architecture  
-- 🔬 Research Interest: AI audit systems, healthcare ML, climate intelligence  
-- 🚀 Builder Mindset: Turning research ideas into deployable products  
-- 🤝 Open to collaborations in AI, data science, and applied ML systems  
+Final-year BCA student (CGPA: 9.3/10) building scalable, research-aligned AI systems with real-world deployment.
 
-<p align="center">
-  <em style="font-family:'Playfair Display', serif; font-size:1.05em; color:#5C5470;">
-    "Research-minded. Product-oriented. Building AI that holds up in the real world."
-  </em>
-</p>
+I focus on:
+- Machine Learning & Predictive Modeling  
+- Computer Vision Systems  
+- AI Audit Architectures  
+- End-to-End Product Deployment  
+
+Bridging research rigor with production-ready engineering.
 
 ---
 
-### 🚀 Flagship Projects  
+## 🚀 Core Projects
 
-| | | |
-|:-:|:-:|:-:|
-| **🔐 CASAS v2.0 + GlitchZero**<br>AI attendance platform with forensic audit layer detecting impossible patterns using temporal heuristics.<br><br>📄 Research paper in preparation (IEEE/Springer target) | **🌍 EcoVision AI**<br>First Prize-winning climate intelligence system using YOLOv8 for plastic detection, risk zone mapping & AQI-based impact simulation. | **🏥 Smart Stroke Risk Monitor**<br>94.6% predictive accuracy across 12+ patient metrics for early-stage stroke risk assessment. |
-
----
-
-### 📊 Analytics & Systems  
-
-- 📈 Power BI dashboards analyzing 10,000+ transactions  
-- 🌎 5-region datasets with 92% forecasting accuracy  
-- ⚙️ Built full-stack AI systems using React, Streamlit & MySQL  
+### 🔐 CASAS v2.0 + GlitchZero  
+AI-based institutional attendance system with forensic audit layer.  
+• Detects anomalous patterns using temporal heuristics  
+• Anchor–Audit Architecture model  
+• Research paper in preparation (IEEE/Springer target)
 
 ---
 
-### 🏆 Recognition  
+### 🌍 EcoVision AI  
+First Prize-winning climate intelligence system.  
+• YOLOv8 plastic waste detection  
+• Real-time animal risk zone mapping  
+• AQI-driven environmental impact simulation  
+
+---
+
+### 🏥 Smart Stroke Risk Monitor  
+Healthcare ML system achieving **94.6% prediction accuracy** across 12+ clinical metrics.
+
+---
+
+### 📊 Power BI Analytics Platform  
+• 10,000+ transactions analyzed  
+• 5-region dataset  
+• 92% forecasting accuracy  
+• Enterprise-style business dashboards  
+
+---
+
+## 🏆 Achievements
 
 - 🥇 First Prize – ICADMA 2025 (Pathfinding Algorithms Research)  
 - 🥇 First Prize – Science & Technology for Sustainable Future (EcoVision AI)  
-- 🎓 Academic Distinction – CGPA 9.3/10  
+- 🎓 CGPA: 9.3 / 10  
 
 ---
 
-### 🚀 Tech Stack  
+## 🛠 Technical Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-E6A4B4?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F5B994?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-B4AEE8?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-A6D49F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/YOLOv8-E6A4B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MediaPipe-B4AEE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F5B994?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-A6D49F?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-E6A4B4?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,mysql,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ML-ScikitLearn-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ComputerVision-YOLOv8-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-AI-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
 ---
 
-### 📈 GitHub Insights  
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanikaTribhuvan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaTribhuvan&theme=transparent&hide_border=true" width="47%"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaTribhuvan&theme=transparent&hide_border=true&layout=compact" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanikaTribhuvan&show_icons=true&hide_border=true&theme=default" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaTribhuvan&hide_border=true&theme=default" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaTribhuvan&layout=compact&hide_border=true" width="55%">
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanika-tribhuvan-b3a392348"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tribhuvansanika@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  crafted with research, curiosity, and a little bit of coffee ☕
+  <a href="https://linkedin.com/in/sanika-tribhuvan-b3a392348">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tribhuvansanika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
