@@ -94,8 +94,8 @@ sanika = {
 
 | 🏅 Award | 🎯 Event | 📅 Year |
 |:---:|:---:|:---:|
+| 🥇 **First Prize** | Science & Technology for Sustainable Future (EcoVision AI) | 2026 |
 | 🥇 **First Prize** | ICADMA — Pathfinding Algorithms Research | 2025 |
-| 🥇 **First Prize** | Science & Technology for Sustainable Future (EcoVision AI) | 2025 |
 | 🎓 **9.3 / 10 CGPA** | BCA — Final Year | Ongoing |
 
 </div>
