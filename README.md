@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=Sanika%20Tribhuvan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%C2%B7%20Scopus%20Author%20%C2%B7%20IEEE%20ComSoc%20Member&descAlignY=60&descSize=18&descColor=ffcccc" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=fff0f5&height=200&section=header&text=Sanika%20Tribhuvan&fontSize=52&fontColor=8B0000&fontAlignY=38&desc=AI%20Researcher%20%C2%B7%20Scopus%20Author%20%C2%B7%20IEEE%20ComSoc%20Member&descAlignY=60&descSize=18&descColor=B22222" width="100%">
 </p>
 
 <div align="center">
@@ -147,15 +147,18 @@ Motivated by the May 2026 MV Hondius hantavirus cluster — 7 cases, 3 fatalitie
 ---
 
 ## 🏆 Awards & Honours
-🥇 First Prize + Best Paper  ·  COGNOTSAV 2026         State-Level · Dr. VVPCE, Ahilyanagar     · ₹1,000 + Gold Medal
-🥈 Second Prize              ·  TECH-EXPO 2026          National · Pravara Rural Engg. College   · ₹4,000 cash
-🏆 First Prize + Best Paper  ·  ICIISTM 2026            International · Scopus-indexed           · ₹2,000 cash
-🥈 Second Prize Poster       ·  NCRT-AIML 2026          National · SPPU · GlitchZero v6
-🥇 First Prize               ·  National Science Day    New Arts College · EcoVision AI (YOLOv8)
-🥇 First Prize               ·  ICADMA 2025             International · Beat 50+ IIT/IISER/DRDO entries
-🥇 5× Gold Medalist          ·  Int'l English Olympiad  Silverzone Foundation · 2016–2020
-🎯 Selected                  ·  Infosys Springboard     Pragati Cohort 8 · High-achieving women in tech
-🗞️ Press Coverage            ·  Lokmat Newspaper        April 2026
+
+| Medal | Award | Venue | Prize |
+|-------|-------|-------|-------|
+| 🥇 First Prize + Best Paper | COGNOTSAV 2026 | State-Level · Dr. VVPCE, Ahilyanagar | ₹1,000 + Gold Medal |
+| 🥈 Second Prize | TECH-EXPO 2026 | National · Pravara Rural Engg. College | ₹4,000 cash |
+| 🏆 First Prize + Best Paper | ICIISTM 2026 | International · Scopus-indexed | ₹2,000 cash |
+| 🥈 Second Prize Poster | NCRT-AIML 2026 | National · SPPU · GlitchZero v6 | — |
+| 🥇 First Prize | National Science Day | New Arts College · EcoVision AI | — |
+| 🥇 First Prize | ICADMA 2025 | International · Beat 50+ IIT/IISER/DRDO | — |
+| 🥇 5× Gold Medalist | Int'l English Olympiad | Silverzone Foundation · 2016–2020 | — |
+| 🎯 Selected | Infosys Springboard | Pragati Cohort 8 · Women in tech | — |
+| 🗞️ Press Coverage | Lokmat Newspaper | April 2026 | — |
 
 ---
 
@@ -218,9 +221,8 @@ Motivated by the May 2026 MV Hondius hantavirus cluster — 7 cases, 3 fatalitie
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=fff0f5&height=100&section=footer" width="100%"/>
 
 *Solo researcher. No team. No mentor. Just research — from Ahilyanagar.*
 
 </div>
-
