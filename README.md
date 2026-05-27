@@ -147,3 +147,80 @@ Motivated by the May 2026 MV Hondius hantavirus cluster — 7 cases, 3 fatalitie
 ---
 
 ## 🏆 Awards & Honours
+🥇 First Prize + Best Paper  ·  COGNOTSAV 2026         State-Level · Dr. VVPCE, Ahilyanagar     · ₹1,000 + Gold Medal
+🥈 Second Prize              ·  TECH-EXPO 2026          National · Pravara Rural Engg. College   · ₹4,000 cash
+🏆 First Prize + Best Paper  ·  ICIISTM 2026            International · Scopus-indexed           · ₹2,000 cash
+🥈 Second Prize Poster       ·  NCRT-AIML 2026          National · SPPU · GlitchZero v6
+🥇 First Prize               ·  National Science Day    New Arts College · EcoVision AI (YOLOv8)
+🥇 First Prize               ·  ICADMA 2025             International · Beat 50+ IIT/IISER/DRDO entries
+🥇 5× Gold Medalist          ·  Int'l English Olympiad  Silverzone Foundation · 2016–2020
+🎯 Selected                  ·  Infosys Springboard     Pragati Cohort 8 · High-achieving women in tech
+🗞️ Press Coverage            ·  Lokmat Newspaper        April 2026
+
+---
+
+## 🔵 IEEE Memberships
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IEEE-Member-003f7c?style=for-the-badge&logo=ieee&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IEEE%20ComSoc-Communications%20Society-0066b2?style=for-the-badge&logo=ieee&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IEEE%20WIE-Women%20in%20Engineering-8B0000?style=for-the-badge&logo=ieee&logoColor=white"/>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,java,php,html,css,react,flask,mysql,postgres,git,github,docker&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-Isolation%20Forest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-XAI-8B0000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-00FFAB?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenTimestamps-Bitcoin%20Anchoring-F7931A?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Federated%20Learning-PySyft%20%2F%20TFF-003f7c?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Differential%20Privacy-Rényi%20Accountant-8e44ad?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain-Polygon%20%7C%20Bitcoin-2d2d2d?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanikaTribhuvan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanikaTribhuvan&hide_border=true&theme=tokyonight" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaTribhuvan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="55%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaTribhuvan&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SanikaTribhuvan&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer&fontColor=ffffff" width="100%"/>
+
+*Solo researcher. No team. No mentor. Just research — from Ahilyanagar.*
+
+</div>
+
